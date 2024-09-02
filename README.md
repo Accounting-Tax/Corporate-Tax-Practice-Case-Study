@@ -1,7 +1,8 @@
-# Corporate-Tax-Practice-Case-Study
-CTA3 2024 - CS2 Corporate Tax Practice Case Study
 
-Background Summary:
+
+# CTA3 2024 - CS2 Practice Case Study: Corporate Tax 
+
+## Background Summary:
 Smith Manufacturing & Distribution Company Ltd (Smith): Founded in 1940 Smith initially produced guns during WWII and later transitioned to manufacturing steel parts for cars. Sam Smith the original owner distributed shares to his children. After Sam’s death his son Fred took over expanding the business and venturing into new markets including a failed battery manufacturing venture that resulted in tax losses of $12 million. Family disagreements ensued and Fred eventually bought out his siblings' shares. Smith’s performance improved with a projected turnover of $25 million for FY24. Fred plans to borrow $200000 from the company in July 2024 to purchase a car.
 
 Questions:
